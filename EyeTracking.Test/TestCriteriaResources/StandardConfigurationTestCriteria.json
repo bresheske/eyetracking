@@ -1,0 +1,103 @@
+﻿{
+    "Settings": {
+        "CropWidth": 220,
+        "CropHeight": 100,
+        "CropX": 40,
+        "CropY": 80,
+        "IrisHue": 250,
+        "ReferencePointTopLeft": {
+            "X": 0,
+            "Y": 0
+        },
+        "ReferencePointBottomRight": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "TestImages": [
+        {
+            "ImageLocation": "D:\\Eyes\\1.png",
+            "LeftEyeX": 90,
+            "LeftEyeY": 130,
+            "RightEyeX": 211,
+            "RightEyeY": 131
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\2.png",
+            "LeftEyeX": 90,
+            "LeftEyeY": 131,
+            "RightEyeX": 211,
+            "RightEyeY": 131
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\39.png",
+            "LeftEyeX": 81,
+            "LeftEyeY": 129,
+            "RightEyeX": 200,
+            "RightEyeY": 131
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\95.png",
+            "LeftEyeX": 83,
+            "LeftEyeY": 135,
+            "RightEyeX": 205,
+            "RightEyeY": 141
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\103.png",
+            "LeftEyeX": 112,
+            "LeftEyeY": 121,
+            "RightEyeX": 230,
+            "RightEyeY": 130
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\29.png",
+            "LeftEyeX": 93,
+            "LeftEyeY": 124,
+            "RightEyeX": 210,
+            "RightEyeY": 128
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\44.png",
+            "LeftEyeX": 81,
+            "LeftEyeY": 135,
+            "RightEyeX": 199,
+            "RightEyeY": 136
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\110.png",
+            "LeftEyeX": 120,
+            "LeftEyeY": 121,
+            "RightEyeX": 237,
+            "RightEyeY": 124
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\23.png",
+            "LeftEyeX": 104,
+            "LeftEyeY": 126,
+            "RightEyeX": 221,
+            "RightEyeY": 127
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\97.png",
+            "LeftEyeX": 99,
+            "LeftEyeY": 125,
+            "RightEyeX": 220,
+            "RightEyeY": 129
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\88.png",
+            "LeftEyeX": 68,
+            "LeftEyeY": 135,
+            "RightEyeX": 187,
+            "RightEyeY": 137
+        },
+        {
+            "ImageLocation": "D: \\Eyes\\101.png",
+            "LeftEyeX": 106,
+            "LeftEyeY": 125,
+            "RightEyeX": 227,
+            "RightEyeY": 133
+        }
+    ]
+}

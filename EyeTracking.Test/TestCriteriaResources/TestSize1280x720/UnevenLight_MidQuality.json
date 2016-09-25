@@ -1,0 +1,61 @@
+﻿{
+    "Settings": {
+        "CropWidth": 190,
+        "CropHeight": 60,
+        "CropX": 480,
+        "CropY": 320,
+        "IrisHue": 245,
+        "ReferencePointTopLeft": {
+            "X": 0,
+            "Y": 0
+        },
+        "ReferencePointBottomRight": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "TestImages": [
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out001.jpg",
+            "LeftEyeX": 512,
+            "LeftEyeY": 347,
+            "RightEyeX": 643,
+            "RightEyeY": 346
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out042.jpg",
+            "LeftEyeX": 516,
+            "LeftEyeY": 354,
+            "RightEyeX": 647,
+            "RightEyeY": 350
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out049.jpg",
+            "LeftEyeX": 514,
+            "LeftEyeY": 361,
+            "RightEyeX": 649,
+            "RightEyeY": 357
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out067.jpg",
+            "LeftEyeX": 540,
+            "LeftEyeY": 358,
+            "RightEyeX": 669,
+            "RightEyeY": 352
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out082.jpg",
+            "LeftEyeX": 519,
+            "LeftEyeY": 358,
+            "RightEyeX": 650,
+            "RightEyeY": 355
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_UnevenLight\\midqual\\out110.jpg",
+            "LeftEyeX": 495,
+            "LeftEyeY": 368,
+            "RightEyeX": 623,
+            "RightEyeY": 365
+        }
+    ]
+}

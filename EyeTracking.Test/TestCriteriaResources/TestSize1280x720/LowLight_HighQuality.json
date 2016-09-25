@@ -1,0 +1,75 @@
+﻿{
+    "Settings": {
+        "CropWidth": 370,
+        "CropHeight": 270,
+        "CropX": 435,
+        "CropY": 210,
+        "IrisHue": 240,
+        "ReferencePointTopLeft": {
+            "X": 0,
+            "Y": 0
+        },
+        "ReferencePointBottomRight": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "TestImages": [
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out001.jpg",
+            "LeftEyeX": 545,
+            "LeftEyeY": 343,
+            "RightEyeX": 698,
+            "RightEyeY": 337
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out006.jpg",
+            "LeftEyeX": 544,
+            "LeftEyeY": 341,
+            "RightEyeX": 714,
+            "RightEyeY": 331
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out034.jpg",
+            "LeftEyeX": 448,
+            "LeftEyeY": 361,
+            "RightEyeX": 641,
+            "RightEyeY": 365
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out054.jpg",
+            "LeftEyeX": 594,
+            "LeftEyeY": 361,
+            "RightEyeX": 754,
+            "RightEyeY": 346
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out060.jpg",
+            "LeftEyeX": 545,
+            "LeftEyeY": 351,
+            "RightEyeX": 704,
+            "RightEyeY": 337
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out005.jpg",
+            "LeftEyeX": 545,
+            "LeftEyeY": 343,
+            "RightEyeX": 707,
+            "RightEyeY": 333
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out029.jpg",
+            "LeftEyeX": 491,
+            "LeftEyeY": 323,
+            "RightEyeX": 647,
+            "RightEyeY": 325
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_LowLight\\highqual\\out065.jpg",
+            "LeftEyeX": 530,
+            "LeftEyeY": 324,
+            "RightEyeX": 692,
+            "RightEyeY": 321
+        }
+    ]
+}

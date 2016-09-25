@@ -1,0 +1,75 @@
+﻿{
+    "Settings": {
+        "CropWidth": 320,
+        "CropHeight": 240,
+        "CropX": 555,
+        "CropY": 300,
+        "IrisHue": 250,
+        "ReferencePointTopLeft": {
+            "X": 0,
+            "Y": 0
+        },
+        "ReferencePointBottomRight": {
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "TestImages": [
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out001.jpg",
+            "LeftEyeX": 651,
+            "LeftEyeY": 402,
+            "RightEyeX": 806,
+            "RightEyeY": 400
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out006.jpg",
+            "LeftEyeX": 660,
+            "LeftEyeY": 394,
+            "RightEyeX": 819,
+            "RightEyeY": 394
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out017.jpg",
+            "LeftEyeX": 656,
+            "LeftEyeY": 384,
+            "RightEyeX": 813,
+            "RightEyeY": 379
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out024.jpg",
+            "LeftEyeX": 593,
+            "LeftEyeY": 370,
+            "RightEyeX": 743,
+            "RightEyeY": 374
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out037.jpg",
+            "LeftEyeX": 608,
+            "LeftEyeY": 399,
+            "RightEyeX": 760,
+            "RightEyeY": 404
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out044.jpg",
+            "LeftEyeX": 683,
+            "LeftEyeY": 408,
+            "RightEyeX": 841,
+            "RightEyeY": 401
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out048.jpg",
+            "LeftEyeX": 692,
+            "LeftEyeY": 395,
+            "RightEyeX": 849,
+            "RightEyeY": 389
+        },
+        {
+            "ImageLocation": "D:\\Eyes\\Video\\1280x720_HighLight\\highqual\\out061.jpg",
+            "LeftEyeX": 608,
+            "LeftEyeY": 379,
+            "RightEyeX": 761,
+            "RightEyeY": 378
+        }
+    ]
+}
